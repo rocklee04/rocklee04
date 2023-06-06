@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Monisha Verma</h1>
-<h3 align="center">Adaptable full stack developer skilled in front-end and back-end development. Experienced in building responsive and user-friendly web applications. Proficient in some programming languages and frameworks. Committed to delivering efficient and maintainable code.</h3>
+
+<div align="center"><img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="sorry :)"> </div>
+
+<h3>Adaptable full stack developer skilled in front-end and back-end development. Experienced in building responsive and user-friendly web applications. Proficient in some programming languages and frameworks. Committed to delivering efficient and maintainable code.</h3>
+
+
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
