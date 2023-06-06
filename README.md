@@ -10,7 +10,7 @@
 
 - 👨‍💻 Know more about me [My Portfolio](https://rocklee04.github.io/)
 
-- 💬 Ask me about **React,JavaScript,HTML,CSS,MongoDB,NodeJS,Express**
+- 💬 Ask me about **JavaScript,HTML,CSS,MongoDB,NodeJS,Express**
 
 - 📫 How to reach me **monisha1497@gmail.com**
 
