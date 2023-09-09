@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋, I'm Monisha Verma</h1>
+<h1 align="center" >Hi 👋, I'm Monisha Verma</h1>
 
-<div align="center"><img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="sorry :)"> </div>
+<p>Adaptable full stack developer skilled in front-end and back-end development. Experienced in building responsive and user-friendly web applications. Proficient in some programming languages and frameworks. Committed to delivering efficient and maintainable code.</p>
+</br>
 
-<h3>Adaptable full stack developer skilled in front-end and back-end development. Experienced in building responsive and user-friendly web applications. Proficient in some programming languages and frameworks. Committed to delivering efficient and maintainable code.</h3>
-
+<img align="right" height="200" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="sorry :)"/>
 
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👨‍💻 Know more about me [My Portfolio](https://rocklee04.github.io/)
 
-- 💬 Ask me about **JavaScript,HTML,CSS,MongoDB,NodeJS,Express**
+- 💬 Ask me about **JavaScript, HTML, CSS, MongoDB, NodeJS, Express**
 
 - 📫 How to reach me **monisha1497@gmail.com**
 
+</br>
+</br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/monisha1497/">
@@ -25,7 +27,7 @@
  <a href='https://leetcode.com/monisha1497/'><img align='center' src='https://img.shields.io/badge/LeetCode-Profile-blue?logo=leetcode&style=flat' alt='https://leetcode.com/monisha1497/'</a>
 
 </p>
-
+</br>
 
 <h3 align="left">Languages and Tools:</h3>
   <div align="left">
